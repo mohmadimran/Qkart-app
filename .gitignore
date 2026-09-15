@@ -24,6 +24,6 @@ yarn-error.log*
 
 testReport.json
 .vercel
-
+echo "__CRIO__/" >> .gitignore
 package-lock.json
 pnpm-lock.yaml
